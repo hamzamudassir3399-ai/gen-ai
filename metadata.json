@@ -1,0 +1,6 @@
+{
+  "name": "AuraStudio - AI Media Generation Studio",
+  "description": "An open-source AI media generation studio for images, videos, lip sync, and cinematic storyboarding with support for hosted APIs and local models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
